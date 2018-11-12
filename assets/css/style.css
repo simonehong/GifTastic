@@ -1,0 +1,10 @@
+.search-item{
+float: left;
+padding: 20px;
+margin: 20px;
+}
+
+#search-form{
+    float: right;
+    margin-right: 10px;
+}
